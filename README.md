@@ -1,8 +1,7 @@
 # Calculator
 
-This calculator making like a react-application can replicate the most basic math operations.
-
-For example ,add, subtract,multiply or divide, as well as add a new operation to the previous result.
+This calculator can do the 4 basic math operations, the strong point of this is that it is built using
+useReducer hook for better state handling.
 
 ## install and usage
 
